@@ -12,11 +12,16 @@ In this python project, players need to pick any one from rock, paper, and sciss
 To implement this python rock paper scissors project we will use the basic concept of python with tkinter and random module.
 
 **Tkinter()** is a standard GUI library which is one of the easiest ways to build a GUI application.
+
 **random** module use to generate random numbers
+
 To install the libraries we can use the pip installer command on the command prompt:
-    $pip install Tk
-    $pip install Tkintertable
-    $pip install random2
+   
+   $pip install Tk
+   
+   $pip install Tkintertable
+   
+   $pip install random2
 
 
 # Project file structure
