@@ -17,11 +17,11 @@ To implement this python rock paper scissors project we will use the basic conce
 
 To install the libraries we can use the pip installer command on the command prompt:
    
-   $pip install Tk
+    $pip install Tk
    
-   $pip install Tkintertable
+    $pip install Tkintertable
    
-   $pip install random2
+    $pip install random2
 
 
 # Project file structure
